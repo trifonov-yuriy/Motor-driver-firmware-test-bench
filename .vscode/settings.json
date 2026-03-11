@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "define.h": "c",
+        "usart.h": "c",
+        "isr.h": "c",
+        "c2.h": "c",
+        "delay.h": "c",
+        "stdio.h": "c",
+        "io.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "cstdlib": "c",
+        "interrupt.h": "c",
+        "adc.h": "c",
+        "adc_.h": "c",
+        "timer.h": "c",
+        "dshot.h": "c"
+    }
+}
